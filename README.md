@@ -1,8 +1,8 @@
-Keyword Analysis using Python Language Processing Scripts to automate keyword findings
+
+Keyword Finding with Python Natural Language Processing
 ===
 
-Collection of Natural Language Processing Scripts 
-
+Keyword Analysis using Python Language Processing Scripts to automate keyword findings
 
 These are two rudimentary scripts I have created for basic keyword finding
 I created these to help show Mozilla how they can start to automate keyword findings in input.mozilla.com
